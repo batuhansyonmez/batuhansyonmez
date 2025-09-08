@@ -1,23 +1,23 @@
 # Hi, I'm Batuhan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=IT+Manager+%40+EG+Veranda;Co-founder+%40+B%26B+Technology;Building+web+apps+and+AI+tools" target="_blank" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=IT+Manager+%40+EG+Veranda;Co-founder+%40+B%26B+Technology;Building+web+apps+and+AI+tools" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-- **IT Manager** @ [EG Veranda](https://egveranda.nl){:target="_blank"} (Netherlands)
-- **Co-founder** @ [B&B Technology](https://bbtechnology.io){:target="_blank"}
+- **IT Manager** @ <a href="https://egveranda.nl" target="_blank">EG Veranda</a> (Netherlands)
+- **Co-founder** @ <a href="https://bbtechnology.io" target="_blank">B&B Technology</a>
 - Building web apps, automation and AI-assisted tools
 - Passionate about creating scalable solutions and innovative technology
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white){:target="_blank"}
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black){:target="_blank"}
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB){:target="_blank"}
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white){:target="_blank"}
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white){:target="_blank"}
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 🌟 Highlights
 
@@ -39,8 +39,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batuhansyonmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" target="_blank" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansyonmez&layout=compact&theme=tokyonight&hide_border=true" target="_blank" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=batuhansyonmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhansyonmez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🤝 Connect with Me
@@ -60,5 +60,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=batuhansyonmez&style=for-the-badge&color=blue" target="_blank" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=batuhansyonmez&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
