@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-- **IT Manager** @ [EG Veranda](https://egveranda.nl) (Netherlands)
-- **Co-founder** @ [B&B Technology](https://bbtechnology.io)
+- **IT Manager** @ <a href="https://egveranda.nl" target="_blank">EG Veranda</a> (Netherlands)
+- **Co-founder** @ <a href="https://bbtechnology.io" target="_blank">B&B Technology</a>
 - Building web apps, automation and AI-assisted tools
 - Passionate about creating scalable solutions and innovative technology
 
@@ -46,7 +46,7 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="batuhansyonmez.com" target="_blank">
+  <a href="https://batuhansyonmez.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/batuhan-syonmez/" target="_blank">
