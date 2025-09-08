@@ -46,7 +46,7 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://batuhansyonmez.com" target="_blank">
+  <a href="batuhansyonmez.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/batuhan-syonmez/" target="_blank">
