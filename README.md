@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-- **IT Manager** @ [EG Veranda](https://egveranda.com) (Netherlands)
-- **Co-founder** @ [B&B Technology](https://bbtechnology.nl)
+- **IT Manager** @ [EG Veranda](https://egveranda.nl) (Netherlands)
+- **Co-founder** @ [B&B Technology](https://bbtechnology.io)
 - Building web apps, automation and AI-assisted tools
 - Passionate about creating scalable solutions and innovative technology
 
